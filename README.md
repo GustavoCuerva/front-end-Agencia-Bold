@@ -16,12 +16,12 @@ A utilização de scripts prontos para slide trouxe muitas vantagens ao projeto 
 
 Junto com isso conseguimos treinar a utilização de opções que encontramos dentro de uma linguagem, como por exemplo:
 
-##CSS
+## CSS
 
 - Animações
 - Responsividade
 
-##Java Script
+## Java Script
 
 - Funções
 - Animações
